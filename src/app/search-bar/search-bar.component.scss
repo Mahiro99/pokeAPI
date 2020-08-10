@@ -1,0 +1,41 @@
+// .bg-image {
+//   /* Add the blur effect */
+//   filter: blur(8px);
+//   -webkit-filter: blur(8px);
+
+//   /* Full height */
+//   height: 100%;
+//   margin: 0 auto;
+
+//   /* Center and scale the image nicely */
+//   background-position: center;
+//   background-repeat: no-repeat;
+//   background-size: cover;
+// }
+
+.search {
+  width: 130px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+  margin: 0 auto;
+}
+
+.search:focus {
+  width: 30%;
+}
+
+// .searchbuton{
+//   float: right;
+//   width: 20%;
+//   padding: 10px;
+//   background: #2196F3;
+//   color: white;
+//   font-size: 17px;
+//   border: 1px solid grey;
+//   border-left: none; /* Prevent double borders */
+//   cursor: pointer;
+// }
+
+// .searchbuton:hover {
+//   background: #0b7dda;
+// }
